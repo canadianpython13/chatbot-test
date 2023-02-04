@@ -1,0 +1,10 @@
+{
+    "iframe": "#sntch_iframe",
+    "iframePopup": "#sntch_popup",
+
+    
+    "messageTextSelector": "[data-test='message-text']",
+    "messageInputSelector": "[data-test='input-chat']",
+    "suggestedButtonSelector": "[data-test='message-suggested-btn']"
+  }
+  

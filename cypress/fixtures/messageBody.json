@@ -1,0 +1,19 @@
+{
+    "userName": "Mark",
+
+    "welcomeMessage1": "Hi 👋 I'm Jamie, your friendly guide to chatbots and SnatchBot.",
+    "welcomeMessage2": "There’s lots I can show you but first please let me know your name.",
+    
+    
+    "nameConfirmedMessage": "Great! Here's what I can chat about with you:",
+    "suggestionsMessage": "Explain what a chatbot is 🤖 ; guide you in making your own chatbot 👩‍🏫👨‍🏫; show you some common use cases👩‍🏭👨‍🏭; give you a tour of the features of SnatchBot 💁‍♀️ 💁‍♂️; help you contact SnatchBot 📩or tell you about our costs.💸",
+    "firstPromptMessage": "You can click a button or type freely. And there are more options in the persistent menu (to the left of the chat bar). So, what would you like me to talk about?",
+    
+
+    "costsReply1": "Are you looking to have one or two chatbots built for you? 🤖 🤖:",
+    "costsReply2": "Or are you an enterprise or an IT service wanting to build many white label chatbots?",
+    "explainChatbotsReply": "Basically, we chatbots are just software applications, like any other application you use on your computer. The important difference is that people interface with us using conversation. Shall I say more about this? 👀",
+    "contactReply": "So, Mark, you'd like to contact SnatchBot. Right? 📩"
+
+  }
+  
